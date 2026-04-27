@@ -1,0 +1,28 @@
+
+body {
+    display: flex;
+    flex-direction:column;
+    justify-content:baseline;
+    align-items:center;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-color:aliceblue;
+    min-height: 100vh;
+}
+
+button{
+    background-color: rgb(10, 189, 10);
+    width: 100px;
+    height: 40px;
+    padding: 1px 20px;
+    color: black;
+    font-weight: 600;
+    border: none;
+    border-radius: 8px;
+    cursor: pointer;
+}
+
+h1{
+    font-family: "Courier", monospace;
+}
